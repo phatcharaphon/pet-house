@@ -1,6 +1,9 @@
-# Pet House (Demo) with NextJS -> pet rental platform using NextJS which is server-sided render react component
+# Pet House (Demo) with NextJS -> pet rental platform using NextJS which is server-sided render React component
 ## Add your firebase app credential to src/lib/firebaseConfig.js to initialized firebase app
-## run npm install then npm run dev to start application
+`run npm install` 
+then
+`npm run dev` 
+to start an application
 
 # Project tree
 ```
